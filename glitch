@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<img src="Glitch Productions.png">
+    <meta charset="UTF-8">
+    <title>Minha Tabela</title>
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Glitch Productions</h2>
+
+    <strong>Empresa de animação indie indepemdente, criadora de series como Murder Drones, O Incrivel Circo Digital e O Destrito Dos Lampejos</strong>
+
+    <p> E você? Gostaria de entrar nesse mundo de animações e aventuras? coloque seus dados e venha nos conhecer!</p>
+
+    <table>
+        <thead>
+                <th>Email</th>
+                <th>Mês</th>
+                <th>Senha</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="email" name="" id=""></td>
+                <td><input type="month" name="" id=""><td>
+                <td><input type="password" name="" id=""></td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
