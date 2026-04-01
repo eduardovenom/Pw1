@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<img src="Glitch Productions.png">
     <meta charset="UTF-8">
     <title>Minha Tabela</title>
     <style>
@@ -13,7 +12,8 @@
     </style>
 </head>
 <body>
-
+    <img src="download.png">
+    
     <h2>Glitch Productions</h2>
 
     <strong>Empresa de animação indie indepemdente, criadora de series como Murder Drones, O Incrivel Circo Digital e O Destrito Dos Lampejos</strong>
